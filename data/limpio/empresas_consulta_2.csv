@@ -1,0 +1,38 @@
+,id,nombre,nit,sector,contacto,correo,telefono,activa,correo_valido
+86,e2ef93d1-257f-4ad9-860e-dc4769fca6b1,ARRIETA PLC,5962923309,Salud,Sin contacto,nancy48@aguilar.co,573042232536,True,True
+291,42b6dd3d-4299-4338-8211-41f4c7d78041,Acosta-Hernández,822269405,Salud,Ruth Laura Cruz Mendoza,orlando84@cantillo-guzman.nom.co,573341465111,True,True
+28,7d110a85-7ea2-4a72-9173-e90753e3d998,Alfonso-Hernández,9517187026,Salud,María Ocampo Ortiz,vbernal@andrade.nom.co,3780913431,True,True
+228,b912daa1-ab56-402d-80e2-9126b0b5a8ce,BOHÓRQUEZ-PALACIO,5644948562,Salud,Gabriel Mauricio Quiroga,jmartinez@torres.co,3427617075,True,True
+54,6a008f66-eba8-4482-8e44-43d4b631a12e,Bedoya-Cardona,8528922680,Salud,Beatriz Lucía Pérez,erikaibarra@sanabria-vargas.net.co,3842498182,True,True
+77,fa0cd36a-4f0e-41f1-9b09-e63136bbb4bf,Díaz Group,8886101581,Salud,León José Peña,vanegasluis@cordoba.net.co,3622444721,False,True
+260,d0914ed4-b080-47db-9bce-3ac8999036e4,Díaz-Amaya,8777496903,Salud,Lady Lorena Moreno Torres,kcampo@rubio.org,3812147853,False,True
+34,758319a7-b977-4533-8d75-073e23cdc20a,Díaz-González,7139005329,Salud,María Nidia Rojas Rojas,sofiasanchez@rodriguez.com,3842102053,True,True
+146,82f1a129-0447-47c1-8027-2fe01585da84,"Espinosa, Morales and Castillo",7292931438,Salud,Adrián Ramírez Vera,elsyrodriguez@sierra-barragan.net.co,3885744890,True,True
+61,d3d93f56-51bc-4081-8a53-57dad60c18c6,FUENTES-RUEDA,7575844198,Salud,Marlon Medina Herrera,nancygutierrez@garcia.nom.co,573733848421,False,True
+157,e2d547bf-f678-449f-83f4-07e6d0b8675f,"Fernández, Martínez and Torres",1037170586,Salud,Yesid Andrés Garzón,ardilahernan@garces.com,3138633839,True,True
+170,3c0fc2df-402e-4e7c-9761-01c4c19239da,"Flórez, Mercado and Molina",2686025922,Salud,Andrea Amaya Guerrero,miguel74@diaz.com,3940777809,True,True
+144,f88942e7-9693-4926-90c6-cf5eca5708f5,Galvis LLC,3333952111,Salud,Mario Alonso Ríos Gómez,uariasburbano-rangel.com.co,3472846392,True,False
+0,ebd9ced4-d184-49f9-a7e0-0247a77d93cb,"González, Villamizar and Vargas",2181960013,Salud,Johana María Ramírez Bernal,ltorres@montes-rodriguez.com,3654235116,True,True
+239,7340fc12-6bdb-4f34-8d5f-7d0b9b6691d6,Gutiérrez-Pérez,4565328632,Salud,Camilo Peña Cruz,ariel72@becerra.com,573155626060,False,True
+279,fdfe65cb-3d25-4351-8cd8-8dde87b9f1a8,IBARRA LTD,6690551076,Salud,María González Contreras,aurabeltran@polo.com,3505057397,False,True
+113,32f2a663-90fe-4f10-84b6-25b3e8886698,Jiménez Group,2482513534,Salud,Kevin Quintero Muñoz,jimena17@gaviria.com.co,573917381684,False,True
+105,ff116397-79d1-41cf-ab5a-79d5b7d0a004,López Group,9872050614,Salud,Alberto José Pérez Jiménez,ortegamartha@ortega-lara.org,3186256527,True,True
+209,1add5027-d18d-47fa-a5a4-8f07e53af301,López and Sons,8338988816,Salud,Aníbal Luis Hernández Rodríguez,mercedes52@naranjo-carvajal.co,3240132234,False,True
+29,00599d69-e8f2-4c49-b0b9-88f078a75d56,Mantilla-Ochoa,1724005045,Salud,Alejandro Antonio Peña,carolinagarcia@beltran-moreno.com.co,3237474074,False,True
+53,be1c8d35-c743-4ace-b128-34e1fc9a3261,"Martínez, Ríos and Galindo",2258313237,Salud,Gloria Córdoba,jarenas@avila.com,3467866912,True,True
+149,c35248d2-427c-4f39-837c-ecaa6cb09ed1,Medina Inc,1780068114,Salud,María Montenegro Giraldo,esthergutierrez@hernandez.com,3557784872,True,True
+78,1df6eaaa-83c3-4715-b70a-9ad135b30c3f,Mejía Group,4715437993,Salud,Luis Jesús Núñez Quintero,varenas@quintero-ayala.net.co,573924593752,True,True
+135,aeb88e4f-2625-4f5c-8dbf-05f308ef5f5a,Moreno-Camacho,8567700518,Salud,Gerardo Ortiz,leonorriveraarango.co,573386557790,True,False
+93,e8334517-bf0b-4785-850c-05b603a1db00,"Muñoz, Arias and Zambrano",4105648149,Salud,Esther Rocío Martínez,auramunoz@lara.nom.co,573138000307,True,True
+6,7cef191c-51b4-43bf-bde4-df9b569e3851,"Ortega, Serna and Arévalo",3116566701,Salud,Alejandra Herrera,vargasliliana@hernandez-diaz.co,573317810801,True,True
+26,7ba14482-b9f2-429c-8a51-ac6a64da0634,Pineda-Ochoa,3482477109,Salud,Maritza Lucía Rodríguez Parra,jonatanbarreto@erazo-jaimes.com,3748467737,True,True
+107,a897a0a0-2386-4a91-925c-7078a9854905,"RIASCOS, SÁNCHEZ AND NÚÑEZ",7223320616,Salud,Leticia Eugenia Palacio Muñoz,garcialuis@valencia.com,573998616229,True,True
+211,bc01dcc0-fae4-4e1e-bb6a-c1091e22676f,ROMERO-ORDÓÑEZ,9389119083,Salud,Dahiana Andrea Gallego Rodríguez,salgadomarco@ortega.net.co,573125663836,False,True
+3,8d47b54d-9b8b-4be2-8faf-168472c071e0,"Rincón, Tovar and Prieto",2269166978,Salud,Alcides Estrada,duartemartha@espinosa.org,3627048281,True,True
+155,48e2334c-3b84-4848-944d-d26f6e822184,"Rivera, Vanegas and Vargas",778487392,Salud,Alexander Felipe Salas,patriciasanchez@fonseca-rios.co,3086209593,True,True
+16,bd1fc9f0-f0f5-4ac5-9639-09bfb0dc7d42,Roa Group,9096705466,Salud,Olga Marcela Reyes Giraldo,dvanegas@puentes.com,3699016272,True,True
+163,56f4e345-e8a2-42f2-8cdf-44d9f4479df9,Rodríguez-Aguirre,1477053833,Salud,Iván Trujillo,jhoncamacho@orozco-vergara.com,3420439407,False,True
+243,40b7286d-1578-4fe2-90d8-2a6c0edc435b,"Salazar, Mendoza and Granados",7622827728,Salud,Erika Lorena Gómez,arielarias@agudelo.com,3159408215,False,True
+73,922083ed-242d-4456-9cf3-e891ae4dca98,"Soto, Garzón and Ramos",7008860084,Salud,José Guerra,larevalo@prada.com,3339845461,False,True
+101,265d2f08-25fb-4f12-bfb9-394a3db4dfe1,"Sánchez, Núñez and Perea",7842701039,Salud,María Daniela Quintero Ávila,flordiaz@martinez-sanchez.nom.co,573218515691,True,True
+116,06defefc-dd78-4d05-b1cf-922d1d57b4c4,Torres Ltd,2309821506,Salud,Sin contacto,duranjesus@martinez.co,3761847230,True,True
