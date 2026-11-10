@@ -1,0 +1,1502 @@
+[
+  {
+    "id":"be183d19-68ba-45e2-a06d-79e1861e0853",
+    "nombre":"Educación",
+    "descripcion":"Ad eius dolore qui perspiciatis.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"45467b71-62d3-4326-adbc-5332fd1a7e8b",
+    "nombre":"entretenimiento",
+    "descripcion":null,
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"ddbe57f5-9875-4ec4-a38a-c4a4b32f7703",
+    "nombre":" finanzas ",
+    "descripcion":null,
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"6676f940-3e64-45c2-a2d4-256392f0bdb9",
+    "nombre":"Educacion",
+    "descripcion":"Sed nobis rem quas modi voluptate fugiat mollitia.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"2c1b2695-0d26-4d26-be76-4195010e6c38",
+    "nombre":"Educación",
+    "descripcion":"Nulla similique neque provident aliquid dolorem enim aspernatur doloremque aut eius.",
+    "area_responsable":null
+  },
+  {
+    "id":"6f208afa-9ee9-4e59-b62a-613e158df190",
+    "nombre":" turismo ",
+    "descripcion":"Cum explicabo pariatur praesentium placeat architecto odio modi.",
+    "area_responsable":null
+  },
+  {
+    "id":"259a97a0-e333-48c9-9d23-8c604b9aa5db",
+    "nombre":"Tecnología",
+    "descripcion":"Cum fugit voluptatibus odit nam placeat sapiente.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"c250d1d9-cbe1-4df4-9eb1-5bccc94e2bfd",
+    "nombre":"Finanzas",
+    "descripcion":null,
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"5fa04b92-5fab-4815-a32f-9485e93c4ed1",
+    "nombre":"Comercio",
+    "descripcion":"Soluta et omnis id totam itaque eaque doloribus natus ea.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"ccdb4c2d-b64d-4f06-af3d-c6ce6fcb235c",
+    "nombre":"Tecnología",
+    "descripcion":"Incidunt nesciunt facere voluptatum consequuntur laudantium quidem similique corrupti cum.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"b98144b3-c150-4beb-b837-40ebcb4f4b49",
+    "nombre":"Finanzas",
+    "descripcion":null,
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"6ab379ca-291e-48da-a2eb-17ea9671a62b",
+    "nombre":"Turismo",
+    "descripcion":"Quibusdam quisquam excepturi eos culpa a quam quaerat voluptas quis.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"caf3fcdd-dff0-4af9-b44f-18b4b7284c25",
+    "nombre":"Deportes",
+    "descripcion":"Totam sit error odit non corrupti quis molestiae quod.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"7249df45-852a-4768-beed-42960af4980a",
+    "nombre":"Seguridad",
+    "descripcion":"Atque perferendis magni accusantium est veritatis exercitationem quisquam deleniti voluptatum.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"cd8946af-0472-4f07-8036-f3d511007e8d",
+    "nombre":"Salud",
+    "descripcion":null,
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"91a09c13-b7d1-4769-ba08-8fb6676801e5",
+    "nombre":"Logística",
+    "descripcion":"Optio veniam cumque minus non vitae.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"2662acb9-cf06-4efd-b035-e07b223a1f18",
+    "nombre":"Salud",
+    "descripcion":null,
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"9acb5e4b-c294-4936-aa0c-a2486fc1c1e3",
+    "nombre":"logistica",
+    "descripcion":"Nihil dolorem dolore architecto.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"590536d9-a746-4ff2-b310-6fee401b6af8",
+    "nombre":"Educación",
+    "descripcion":"Animi architecto adipisci ex maiores eius laborum molestiae quam sunt nemo.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"19048550-894b-4190-b955-15e82d5e19f2",
+    "nombre":"Educación",
+    "descripcion":"Quos rem deleniti atque inventore incidunt iure.",
+    "area_responsable":null
+  },
+  {
+    "id":"381965ea-6bb6-4fd3-90b0-052fa7c58efb",
+    "nombre":"Deportes",
+    "descripcion":"Voluptatibus vero minima saepe asperiores repellendus aliquid ab consequuntur occaecati.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"38055045-0191-47e4-989a-7b4cd31f08ad",
+    "nombre":"Entretenimiento",
+    "descripcion":"Dolorum deleniti ipsum in eius.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"afb0d1f8-702a-4d24-bf9e-20143b147468",
+    "nombre":"Deportes",
+    "descripcion":null,
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"142e4363-787f-4343-ba76-cb360af6f200",
+    "nombre":"Educación",
+    "descripcion":"Voluptas unde sed cumque.",
+    "area_responsable":null
+  },
+  {
+    "id":"f5901c83-ca48-442d-a410-da6f622fb1e6",
+    "nombre":" educación ",
+    "descripcion":"Laboriosam sint temporibus cum a hic unde quos eligendi.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"6cef9dd4-6013-4f23-a480-a1b355a6515a",
+    "nombre":" turismo ",
+    "descripcion":"Consectetur voluptatem rerum quidem voluptatem iure quaerat incidunt fugit dolorem.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"21797ffb-e38e-4481-8a0c-a04abbc23d66",
+    "nombre":"Logística",
+    "descripcion":"Culpa vero aspernatur delectus nisi perferendis doloremque blanditiis tempora doloribus.",
+    "area_responsable":null
+  },
+  {
+    "id":"324ef35d-9ad7-45a0-bb04-aa44dada4a21",
+    "nombre":"Finanzas",
+    "descripcion":"Aliquam aspernatur omnis natus et ea pariatur et eaque consectetur.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"233745ca-def1-4743-a77b-52a2bf0074e2",
+    "nombre":"Tecnología",
+    "descripcion":"Itaque ut vel ab numquam natus aut.",
+    "area_responsable":null
+  },
+  {
+    "id":"d26f8991-2204-4ae9-9812-662e68614f80",
+    "nombre":"Entretenimiento",
+    "descripcion":"Distinctio eaque ut sunt sunt fuga culpa rerum provident nostrum.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"5b842b05-a8b2-4db1-b6cf-06277899309c",
+    "nombre":"finanzas",
+    "descripcion":"Ab repellendus error optio vel consequatur blanditiis autem mollitia earum.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"79e27a91-39b6-46d1-a4bb-c6bd56c20629",
+    "nombre":"Turismo",
+    "descripcion":"Distinctio exercitationem porro sequi magnam dolorum tenetur amet odio repudiandae.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"1e8e4522-7bb5-4a1d-b9b9-8ac68f91869a",
+    "nombre":"Deportes",
+    "descripcion":"A quo odio ea qui.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"815e576a-187c-4c8a-82f3-ef50a0efcffc",
+    "nombre":"Salud",
+    "descripcion":"Provident natus beatae velit porro corrupti alias fuga mollitia inventore.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"6ef82b0e-941d-4046-8510-9d8724df6cd1",
+    "nombre":"Logística",
+    "descripcion":"Est tempore recusandae similique tempore.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"a9d4086e-3a2c-47eb-b26d-e87ba3009bbb",
+    "nombre":"Entretenimiento",
+    "descripcion":"Placeat pariatur explicabo nam soluta voluptate.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"452b590f-1c4e-4bbe-93ee-951dfbde1f2d",
+    "nombre":"Seguridad",
+    "descripcion":"Unde dolores cum reiciendis debitis impedit.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"71129d8f-c4ef-4db0-af60-a3bf53331c9c",
+    "nombre":"Comercio",
+    "descripcion":"Qui ex ut rem sint repellat.",
+    "area_responsable":null
+  },
+  {
+    "id":"23d858b8-1bf7-42eb-8f93-891493c7caeb",
+    "nombre":"Salud",
+    "descripcion":null,
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"695b4960-5a5e-462c-b00c-fbbb373a2e74",
+    "nombre":"Turismo",
+    "descripcion":null,
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"95bcffdc-beea-4a62-bf05-f895406bc547",
+    "nombre":"Comercio",
+    "descripcion":null,
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"955381e3-835d-4bdb-b932-eabe48ea2a95",
+    "nombre":" logística ",
+    "descripcion":"Debitis vitae eaque autem ipsa quas et.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"a2cfadb4-4f9f-4801-905b-155a9674c1f6",
+    "nombre":"Deportes",
+    "descripcion":null,
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"3db26b3a-d658-43ed-80c9-4ee1a3f3b53a",
+    "nombre":"Logistica",
+    "descripcion":"Facilis architecto optio ex et sed.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"235da591-86b9-4762-ac01-2f47c56b2100",
+    "nombre":"entretenimiento",
+    "descripcion":"Magni pariatur eveniet possimus mollitia deleniti pariatur.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"67cb86a1-3d07-4097-a20b-5cd2add5b083",
+    "nombre":"Finanzas",
+    "descripcion":"Aut tenetur accusamus corporis sit voluptas asperiores quos eaque.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"00cfb37f-4779-4eaf-ad63-422cd0307e39",
+    "nombre":"Deportes",
+    "descripcion":"Asperiores porro occaecati aut quo sed.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"9446a05e-2e6e-48e4-9088-500db4fb417c",
+    "nombre":"deportes",
+    "descripcion":"Excepturi repellendus quibusdam perferendis dolore dicta ad doloribus labore sed asperiores.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"3561e94f-b542-4f4a-a6fa-082ccbf2962d",
+    "nombre":"Deportes",
+    "descripcion":"Suscipit nemo quaerat fugit id corporis porro tempora similique.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"92169443-1984-4a63-bfa1-bd89975a9cd5",
+    "nombre":"Entretenimiento",
+    "descripcion":null,
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"8e330b65-570f-4297-9520-cf24af9fc090",
+    "nombre":"Finanzas",
+    "descripcion":"Dolorum sed itaque reiciendis pariatur voluptates nisi veniam tempora nostrum.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"d499d63e-5d6f-4fd6-9bab-02cd285853dd",
+    "nombre":"Comercio",
+    "descripcion":"Incidunt tenetur ipsum culpa similique ipsum quibusdam saepe eius.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"55429d6c-35b2-4043-bfe9-96524f86ec1b",
+    "nombre":"Seguridad",
+    "descripcion":"Laborum dolores ipsam quae doloremque excepturi tempora aspernatur corrupti fugit.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"47133109-17db-45f7-a331-bfbeab9fba36",
+    "nombre":"Seguridad",
+    "descripcion":null,
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"dc1fe6bb-4ca9-4ff0-b887-92ebfb7681f8",
+    "nombre":"logistica",
+    "descripcion":"Harum quo veniam accusantium sunt nemo labore velit error.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"90897a4d-590d-4884-9ffb-30ad91773491",
+    "nombre":"Salud",
+    "descripcion":"Sequi veritatis in quibusdam molestias nobis dolore dolor.",
+    "area_responsable":null
+  },
+  {
+    "id":"5cd5aea5-8532-4dd7-8ba0-318c9244502d",
+    "nombre":"Deportes",
+    "descripcion":null,
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"c8e49684-dd20-458d-b30f-e9aacf351715",
+    "nombre":"Tecnología",
+    "descripcion":"Nihil optio assumenda inventore sint delectus ea eveniet.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"3b3ccfdd-4c09-4204-aee6-d4c5c9060139",
+    "nombre":"Salud",
+    "descripcion":"Eveniet quis fugit quibusdam rerum dolorum aspernatur accusantium molestiae.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"cfb00441-053f-4a6e-b16f-e7f1b67ce907",
+    "nombre":"TURISMO",
+    "descripcion":"Dolore architecto vero aliquam adipisci dolorum saepe numquam.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"4fda6da0-f611-4747-ab40-4649049a3ecf",
+    "nombre":"Educación",
+    "descripcion":"Commodi pariatur natus dolor praesentium quisquam cumque.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"7da52d4b-66b6-4c93-b178-2b88b9e74019",
+    "nombre":"Turismo",
+    "descripcion":"Vitae quaerat quod cum est neque ut nemo tenetur fugiat.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"00cfb37f-4779-4eaf-ad63-422cd0307e39",
+    "nombre":"Deportes",
+    "descripcion":"Asperiores porro occaecati aut quo sed.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"263ff942-0b8d-413c-8186-91520b358d9a",
+    "nombre":"Logística",
+    "descripcion":"Odit nisi accusantium ratione doloribus commodi.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"524d60a1-efe9-40ae-bbf3-3f23ce97b654",
+    "nombre":"Tecnología",
+    "descripcion":"Autem vero odio repudiandae provident ipsa quasi vitae earum.",
+    "area_responsable":null
+  },
+  {
+    "id":"3b4ed2cd-c0fb-4d7e-9c00-a6cd57b9b363",
+    "nombre":"Comercio",
+    "descripcion":"Quo iure repudiandae nihil eum doloribus vel eius iste quibusdam.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"dc6ff0ac-843c-4c24-918a-c3f57d6319ca",
+    "nombre":"Logística",
+    "descripcion":"Nostrum fugiat adipisci sed delectus distinctio reiciendis excepturi sunt praesentium.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"00cfb37f-4779-4eaf-ad63-422cd0307e39",
+    "nombre":"Deportes",
+    "descripcion":"Asperiores porro occaecati aut quo sed.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"e694ec4e-cdce-48ce-b10c-24d95996f6d4",
+    "nombre":"SALUD",
+    "descripcion":null,
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"cd02c6e3-965f-4e2e-adfb-a31cf79a62b3",
+    "nombre":"Tecnología",
+    "descripcion":"Exercitationem voluptatum mollitia explicabo iste esse dolorem quam et quia.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"f9694f3c-9869-48c5-b484-1afae8fe1e27",
+    "nombre":"comercio",
+    "descripcion":null,
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"ecfbaa6d-59fd-40e2-a00b-cb0a2c200bfe",
+    "nombre":"Comercio",
+    "descripcion":null,
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"aebecc57-5a6d-4cfa-8308-2a5b2cbb2f5d",
+    "nombre":"entretenimiento",
+    "descripcion":"Earum voluptate mollitia possimus commodi sit.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"3618021a-ce7d-4f87-b07a-bdcbf571814f",
+    "nombre":" seguridad ",
+    "descripcion":"Aut accusamus eligendi laboriosam exercitationem vitae dolorum similique beatae.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"c0ccec34-7e4b-4ce3-95d4-d10131881cb6",
+    "nombre":"salud",
+    "descripcion":"Id asperiores occaecati amet corrupti.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"b8b5f6ac-3ed7-4acd-be32-2a09ad2362e6",
+    "nombre":" salud ",
+    "descripcion":"Veniam assumenda dolorum nam impedit nisi nulla quod fugit tenetur.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"ec79b112-5807-468d-932e-b706a726ca0e",
+    "nombre":"Comercio",
+    "descripcion":"Similique voluptatibus esse numquam non qui veniam.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"f10224a8-a19b-4280-b0c2-d48769cc123a",
+    "nombre":"Seguridad",
+    "descripcion":"Numquam eaque aspernatur dolores mollitia culpa.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"79ce74b6-db1b-4ea8-beea-db301c341cfb",
+    "nombre":"Deportes",
+    "descripcion":"Ipsum nisi eos doloremque provident praesentium iste porro.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"cfaf8a16-4345-4398-8e6d-31f86508685b",
+    "nombre":"Deportes",
+    "descripcion":"Minus totam rerum ducimus repudiandae laboriosam rem quia.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"c6ea2799-4ab8-4b03-bad3-493f4e2f96c5",
+    "nombre":"entretenimiento",
+    "descripcion":"Repudiandae architecto cumque esse quibusdam necessitatibus enim.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"98ec9b3f-cad7-4b50-af23-5e3d941cb54b",
+    "nombre":" tecnología ",
+    "descripcion":null,
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"3d6910e4-103d-46cd-af0d-863d74c351a7",
+    "nombre":"seguridad",
+    "descripcion":"Aliquam inventore eum dolorum at vitae saepe nemo veritatis voluptatum.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"ea1a033f-5eca-4555-9b48-b0a4ff13d7a4",
+    "nombre":"educacion",
+    "descripcion":"Nemo quis cupiditate maxime ipsam eius voluptatum.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"079b43fd-91ea-412a-81b7-41fe4317821e",
+    "nombre":"Educación",
+    "descripcion":null,
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"22b7642c-d2f6-4dc9-bff8-892167a21dea",
+    "nombre":"Salud",
+    "descripcion":"Optio id quis alias at dolorum blanditiis.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"1d3f3616-85c5-4414-a8b3-c9cc51bab9f1",
+    "nombre":"Deportes",
+    "descripcion":"Sint repudiandae a sit iure amet maxime numquam.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"0da2ff5e-ccfb-420a-8b4b-87cce47b476d",
+    "nombre":"Salud",
+    "descripcion":"Numquam quis dignissimos molestias unde ipsa praesentium commodi voluptate.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"9eb66aaa-8d67-4a4b-9cbc-fd7cff4b4bb9",
+    "nombre":"Comercio",
+    "descripcion":"Reiciendis quae est accusamus illum dolore sapiente beatae veniam officia.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"9cc8ac57-2529-4f16-92de-227a9fa2e3d6",
+    "nombre":"Turismo",
+    "descripcion":"Libero quaerat magni earum rerum voluptatem.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"627ced94-7899-4737-a7b9-865355f3e34e",
+    "nombre":"Comercio",
+    "descripcion":null,
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"85b2134f-26ef-4e9e-963e-acfc8b5badc9",
+    "nombre":"Entretenimiento",
+    "descripcion":"Excepturi ratione eaque a quas saepe neque optio sint.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"970f64b8-135d-40ab-9d62-287d91bc6936",
+    "nombre":"Logística",
+    "descripcion":"Molestiae exercitationem mollitia molestiae iste eum deleniti possimus nemo.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"3b24a337-15bc-440e-9812-52857190e763",
+    "nombre":"comercio",
+    "descripcion":"Sequi illum et labore totam fugit voluptates.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"dd6be945-0f64-4826-9459-efaed9aee591",
+    "nombre":"Educación",
+    "descripcion":"Libero alias magnam nihil sit soluta.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"67cb86a1-3d07-4097-a20b-5cd2add5b083",
+    "nombre":"Finanzas",
+    "descripcion":"Aut tenetur accusamus corporis sit voluptas asperiores quos eaque.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"0b4ba742-ca70-49a7-b63e-1ff442a8eb82",
+    "nombre":"Logística",
+    "descripcion":"Possimus officiis sequi sequi similique fugit et quaerat quis sit alias.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"5b32f036-ff17-48ed-b93d-9f53a4128769",
+    "nombre":"Seguridad",
+    "descripcion":"Doloremque placeat enim dolorem at.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"ec496866-2280-47f9-a806-9f2039c5f17a",
+    "nombre":" finanzas ",
+    "descripcion":"Quis provident aut cumque error.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"3e4ca372-2be1-478a-99d2-752b353aee14",
+    "nombre":"Finanzas",
+    "descripcion":"Aliquid recusandae eos fugiat corporis.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"3569d92d-8c16-4b4e-a9fb-4500d072fee3",
+    "nombre":"Educación",
+    "descripcion":"Illum placeat debitis cupiditate non fugit placeat libero nesciunt doloremque.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"933e8a7c-de2f-4356-83d0-86c77148fe16",
+    "nombre":"Finanzas",
+    "descripcion":"Itaque pariatur tempore iure enim molestias asperiores.",
+    "area_responsable":null
+  },
+  {
+    "id":"cff64676-99a3-4cc5-8b9f-eb576fcabfe2",
+    "nombre":"Tecnología",
+    "descripcion":"Voluptates error vitae porro itaque error voluptatum sequi.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"1b66bdd1-d8da-4fdb-a87f-2f6a36c5d764",
+    "nombre":"Educación",
+    "descripcion":"Dolores nemo nemo voluptatibus eos.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"6ad484f8-3394-4553-96fa-0dc459c909d9",
+    "nombre":"Finanzas",
+    "descripcion":"Earum natus placeat quia aliquid non libero temporibus.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"848fdd7c-3035-49a4-8e16-a2e6fcd0de01",
+    "nombre":"Deportes",
+    "descripcion":"Quod dolorem reiciendis dolor deleniti dolorum quidem.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"3d9a73be-e1b7-4d03-ac2c-29ed2328d4f1",
+    "nombre":"Comercio",
+    "descripcion":"Occaecati temporibus officia est ipsam neque.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"b49d6126-00af-4d64-ae79-8541750579ea",
+    "nombre":"Seguridad",
+    "descripcion":"At eos quibusdam cupiditate consequatur molestiae.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"cfaf8a16-4345-4398-8e6d-31f86508685b",
+    "nombre":"Deportes",
+    "descripcion":"Minus totam rerum ducimus repudiandae laboriosam rem quia.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"55ed34f8-4c38-473a-851e-e9c9ecef4de8",
+    "nombre":" deportes ",
+    "descripcion":null,
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"75697c38-9fcd-48e0-a3d6-f03ccf5fd503",
+    "nombre":"Finanzas",
+    "descripcion":"Facilis ratione accusamus modi iste perferendis perferendis nesciunt reprehenderit velit.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"88bfb12c-90de-4c8c-b4c0-1b87b4455467",
+    "nombre":"Educación",
+    "descripcion":"Perferendis iusto nulla velit eveniet.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"6d40fa75-fd9c-42eb-a68a-37658189bfb9",
+    "nombre":"Logística",
+    "descripcion":"Dolore aperiam reprehenderit tenetur error illum consequuntur veniam esse laudantium atque.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"f1899a5f-8564-4d3b-b783-a1502862899c",
+    "nombre":"Turismo",
+    "descripcion":"Consequatur iste perferendis quia veniam in quia culpa impedit aut.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"01cef8f0-abed-4dee-b464-689948bb4371",
+    "nombre":"Tecnología",
+    "descripcion":"Nulla vel eius porro dolor ipsam doloremque facilis voluptatem.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"caf3e33d-b849-465e-a664-e348389a9438",
+    "nombre":"tecnologia",
+    "descripcion":"Molestias voluptate facere id deleniti commodi sed iste.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"263ff942-0b8d-413c-8186-91520b358d9a",
+    "nombre":"Logística",
+    "descripcion":"Odit nisi accusantium ratione doloribus commodi.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"c250d1d9-cbe1-4df4-9eb1-5bccc94e2bfd",
+    "nombre":"Finanzas",
+    "descripcion":null,
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"2987d4a1-f249-4790-97e6-966573016567",
+    "nombre":"FINANZAS",
+    "descripcion":"Voluptates molestiae reiciendis beatae sint consectetur.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"f8d32ee9-4f87-4f02-a307-0435060e266f",
+    "nombre":"Deportes",
+    "descripcion":null,
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"46981e3c-e8eb-4c57-9175-28a670d6f6c5",
+    "nombre":"Turismo",
+    "descripcion":"Ipsum facere nisi iste dolore nostrum quas tenetur omnis.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"b3ad2165-b0a1-4339-b222-7807123cd473",
+    "nombre":"Entretenimiento",
+    "descripcion":"Itaque vitae aperiam laboriosam illo placeat laudantium.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"1fba2864-c3ac-4402-af34-18ec81b516d7",
+    "nombre":"Finanzas",
+    "descripcion":"Asperiores aspernatur non aperiam eius odio molestias eveniet voluptatum.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"933165a9-e66c-474a-b1d3-1128fb1a191f",
+    "nombre":"Deportes",
+    "descripcion":null,
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"21143c36-c4fc-4f93-a90a-cd37c8f37382",
+    "nombre":"Educación",
+    "descripcion":"Impedit repudiandae id quas est est ducimus.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"ffc0d93e-ca99-4ab3-affa-e61c872c95fd",
+    "nombre":"Comercio",
+    "descripcion":"Porro labore at assumenda inventore quia.",
+    "area_responsable":null
+  },
+  {
+    "id":"8702fa63-e604-4db7-a3a3-2b777ebc59f6",
+    "nombre":"Educación",
+    "descripcion":"Repellat nam nesciunt natus eveniet commodi explicabo pariatur.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"5e7e7cd3-00c3-47aa-a660-9d53263191fd",
+    "nombre":"Salud",
+    "descripcion":"Sint quam voluptas nobis expedita neque distinctio omnis dolore.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"3ca3602e-8839-46ae-b30a-3b71763ee14a",
+    "nombre":"DEPORTES",
+    "descripcion":null,
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"17b51f25-d4fa-49fe-ba1a-6b6c94376a31",
+    "nombre":"finanzas",
+    "descripcion":"Sapiente voluptate repellendus nostrum odit ad ut repudiandae eaque.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"69f90f92-53b5-4e12-a4ed-a78fd02e2f88",
+    "nombre":"tecnologia",
+    "descripcion":"Earum quis ullam expedita delectus corporis.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"2576446f-796e-4d28-bc1d-46408719599c",
+    "nombre":"Turismo",
+    "descripcion":"Illo magnam tempora provident est blanditiis.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"1b64a49e-7a2f-4297-8b68-3ea5c0ba1060",
+    "nombre":"turismo",
+    "descripcion":"Quam quod necessitatibus assumenda amet culpa nulla.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"07ebfbf0-e545-4ec6-a295-1bf4469e1083",
+    "nombre":"Deportes",
+    "descripcion":"Earum optio laborum ipsam earum.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"b3ad2165-b0a1-4339-b222-7807123cd473",
+    "nombre":"Entretenimiento",
+    "descripcion":"Itaque vitae aperiam laboriosam illo placeat laudantium.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"8cb838e7-9cdf-4c0e-a1f6-36a447f58d90",
+    "nombre":"Deportes",
+    "descripcion":"Veniam quisquam quisquam enim blanditiis libero inventore.",
+    "area_responsable":null
+  },
+  {
+    "id":"7e749426-e1c9-49e3-9621-e84159f6a2ae",
+    "nombre":"Finanzas",
+    "descripcion":"Fugit provident magnam rerum rem asperiores.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"83a54e2a-0f79-4a6a-8fe7-55544a3111bb",
+    "nombre":"Finanzas",
+    "descripcion":"Ipsa itaque aspernatur est inventore.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"4f17ce16-8557-4583-933d-a4097bff37b1",
+    "nombre":"Seguridad",
+    "descripcion":null,
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"85549f84-1a76-484c-935d-4e10c8719f80",
+    "nombre":"Tecnología",
+    "descripcion":"At sapiente doloribus nihil minima id est excepturi.",
+    "area_responsable":null
+  },
+  {
+    "id":"6fa53e39-c8ad-4321-bf99-d5deb6d994fc",
+    "nombre":"Tecnología",
+    "descripcion":null,
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"f7bf190e-e5fa-4f08-b8b3-41f3d350a845",
+    "nombre":"Seguridad",
+    "descripcion":"Dolores corporis deserunt nobis quis omnis.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"ad2a1fba-eae7-4c0c-86d4-7d745bfb352f",
+    "nombre":"Comercio",
+    "descripcion":"Veritatis occaecati iure natus neque perspiciatis.",
+    "area_responsable":null
+  },
+  {
+    "id":"39bedb7a-8800-4ddb-9cc5-afc2b79adbe4",
+    "nombre":"Salud",
+    "descripcion":"Officia voluptates eum voluptas et ipsam iusto occaecati recusandae nihil.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"63835af2-7b21-4d69-b20f-57e7b4547181",
+    "nombre":"Comercio",
+    "descripcion":null,
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"1cd15477-af51-4f89-949c-092fe599e00d",
+    "nombre":"Salud",
+    "descripcion":"Nisi fugit neque veritatis qui aliquam tenetur nemo deleniti non magnam.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"e36643f6-b227-4e80-9582-14681e36a17e",
+    "nombre":"Seguridad",
+    "descripcion":"Ipsum repellat saepe voluptatem assumenda.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"7b9ec462-fb72-4190-b81a-f869591963d0",
+    "nombre":"Finanzas",
+    "descripcion":"Aliquam provident voluptatibus minima non facilis.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"29cc35ac-af09-441f-bc73-bc0d3e9f4e66",
+    "nombre":"Educación",
+    "descripcion":null,
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"76669401-0caa-43b5-9b51-8725903ba91f",
+    "nombre":"Finanzas",
+    "descripcion":"Perspiciatis eligendi quam omnis temporibus sit ex nesciunt consequuntur expedita.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"25c55740-a3a3-4822-a8be-3fc737533a2a",
+    "nombre":"Seguridad",
+    "descripcion":"Consectetur quae assumenda nam officia eveniet consectetur praesentium.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"7249df45-852a-4768-beed-42960af4980a",
+    "nombre":"Seguridad",
+    "descripcion":"Atque perferendis magni accusantium est veritatis exercitationem quisquam deleniti voluptatum.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"909a1480-68da-4848-831c-5f352cf34a20",
+    "nombre":"Turismo",
+    "descripcion":"Aspernatur sapiente aut quo rerum sunt.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"f28e348d-6e80-4efb-8dfa-e6af02912ed0",
+    "nombre":"Seguridad",
+    "descripcion":"Optio soluta nulla nisi culpa.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"77df70d5-8d78-4879-9adf-96435d8652bd",
+    "nombre":"Logistica",
+    "descripcion":null,
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"8bbd5599-803a-44f9-a743-05cbf94d72bc",
+    "nombre":"Comercio",
+    "descripcion":"Suscipit et est id repellendus labore.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"1692fd87-a96b-4ac0-96da-d22dd0edc35e",
+    "nombre":"Finanzas",
+    "descripcion":"Temporibus deserunt perspiciatis necessitatibus ipsam quo quod magnam in.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"aab0673b-2a9f-4167-aeb9-2482b6ce898e",
+    "nombre":"TURISMO",
+    "descripcion":"Repellendus reiciendis consequuntur dolorum odit soluta.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"a41c6537-f17a-4698-b21e-1e95089383ce",
+    "nombre":" entretenimiento ",
+    "descripcion":"Vel quae maiores commodi assumenda cum ipsum maiores rerum at.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"6b85ca36-020b-4ce6-83b9-2e4e1d671077",
+    "nombre":"Logística",
+    "descripcion":"Repellendus suscipit ut impedit id fugiat harum.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"e77f801b-a6bf-464e-b616-ce3d5d014de5",
+    "nombre":"Tecnología",
+    "descripcion":"Fugiat adipisci ut saepe officiis.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"4530489b-8088-4635-ad0e-d6d6c1cbd968",
+    "nombre":"Seguridad",
+    "descripcion":"Consequuntur enim rerum possimus consequuntur provident.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"4f85f23a-48b4-467a-ae1d-afa23633b3ef",
+    "nombre":"Educación",
+    "descripcion":"Nostrum temporibus accusantium dolor corrupti velit non incidunt quod.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"7e749426-e1c9-49e3-9621-e84159f6a2ae",
+    "nombre":"Finanzas",
+    "descripcion":"Fugit provident magnam rerum rem asperiores.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"04d2d94e-20be-446c-80fa-0348fcd5de94",
+    "nombre":"Comercio",
+    "descripcion":"Modi odio nemo quaerat eos a explicabo necessitatibus deleniti pariatur.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"fbc2ec3d-2425-4851-adab-a81841e34266",
+    "nombre":"Salud",
+    "descripcion":"Voluptate architecto minima magni voluptates mollitia hic iusto odio voluptatem.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"e2e6f156-8e3b-466e-947b-47ba919698de",
+    "nombre":"Educacion",
+    "descripcion":"Quibusdam explicabo architecto dolores omnis aut neque.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"ec291dc0-8b2a-4c27-81f8-2434cb0c2553",
+    "nombre":"Logística",
+    "descripcion":"Consequatur explicabo excepturi odit rerum placeat voluptatem laboriosam.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"7e749426-e1c9-49e3-9621-e84159f6a2ae",
+    "nombre":"Finanzas",
+    "descripcion":"Fugit provident magnam rerum rem asperiores.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"8bbd5599-803a-44f9-a743-05cbf94d72bc",
+    "nombre":"Comercio",
+    "descripcion":"Suscipit et est id repellendus labore.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"076a0724-1ff7-4e0f-8579-ba4b46902e3e",
+    "nombre":"Seguridad",
+    "descripcion":"Quidem deleniti explicabo quos sint.",
+    "area_responsable":null
+  },
+  {
+    "id":"5dc4249e-593b-49f3-a872-ae100a8414bc",
+    "nombre":"Tecnología",
+    "descripcion":null,
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"7b00174c-68ed-4d92-9644-075583da1931",
+    "nombre":"Entretenimiento",
+    "descripcion":null,
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"053e37ae-70ea-4066-88e0-b055f0e10ed2",
+    "nombre":"Salud",
+    "descripcion":"Aspernatur optio esse nobis incidunt.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"d2bc4f58-4c36-468f-aef6-c63212e94add",
+    "nombre":" educación ",
+    "descripcion":"Expedita aliquam sit explicabo voluptatum earum voluptatem veniam asperiores.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"99b05184-eafa-417a-bcc2-0161b9739ba3",
+    "nombre":" comercio ",
+    "descripcion":"Facilis reiciendis perspiciatis veritatis consequuntur non quos alias.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"8f18bae0-014f-407d-a242-f80df5d23038",
+    "nombre":"Entretenimiento",
+    "descripcion":"Doloremque officia facere veniam adipisci.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"7dcd1a3a-fd97-459b-a4a8-d6493f7ffda6",
+    "nombre":"Seguridad",
+    "descripcion":"Perspiciatis veniam fuga quis nemo minus.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"5d4542be-75e3-49ce-b053-8554fdcf3ded",
+    "nombre":"Logística",
+    "descripcion":"Et eius vero ad delectus maxime totam blanditiis.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"bb136043-e484-414a-8cbf-1b8eced450d5",
+    "nombre":"Entretenimiento",
+    "descripcion":"Provident dolor nostrum possimus voluptatum dicta consequatur.",
+    "area_responsable":null
+  },
+  {
+    "id":"c37b1997-e589-46ef-b5a1-323b49290aa3",
+    "nombre":"Deportes",
+    "descripcion":"Iste tempore ipsum assumenda placeat.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"90acc51a-1057-4a98-bf58-a75bec92033c",
+    "nombre":"Tecnología",
+    "descripcion":"Pariatur quae mollitia enim error culpa quae praesentium.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"1c2482fe-5d70-42db-a947-50b32985fafd",
+    "nombre":" turismo ",
+    "descripcion":"Recusandae magni commodi dicta consequuntur ratione.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"01b1b9e8-4629-4650-ab3a-d3dd30da3f53",
+    "nombre":"tecnologia",
+    "descripcion":"Facere nemo iusto voluptatem consectetur.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"1e362cab-baed-4e9e-8459-9d033754b69e",
+    "nombre":"Logística",
+    "descripcion":"Aperiam id quaerat laboriosam illum.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"bb3d1a4b-5a90-48e3-934d-78cd2e26194f",
+    "nombre":"ENTRETENIMIENTO",
+    "descripcion":"Reprehenderit asperiores voluptas odit ipsum perspiciatis exercitationem soluta.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"f10224a8-a19b-4280-b0c2-d48769cc123a",
+    "nombre":"Seguridad",
+    "descripcion":"Numquam eaque aspernatur dolores mollitia culpa.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"44dfa24e-da6c-4618-bcea-c8a421d5d7c1",
+    "nombre":"turismo",
+    "descripcion":"Exercitationem velit tempora sapiente dolorum odio mollitia.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"944d1e64-0b24-4951-8b3f-17468d28a178",
+    "nombre":"Tecnología",
+    "descripcion":"Numquam nostrum atque odit nihil neque.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"b8005ba7-9425-45db-978b-8b8647638b0a",
+    "nombre":" educación ",
+    "descripcion":"Omnis quam non sapiente natus repudiandae.",
+    "area_responsable":null
+  },
+  {
+    "id":"70a4f9fd-3bf4-4f1f-a03b-97de6a390b1e",
+    "nombre":"Comercio",
+    "descripcion":"Aspernatur veniam quo eaque distinctio.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"9723ef31-778e-41bd-a665-752fba00fb74",
+    "nombre":"Logística",
+    "descripcion":"Impedit odit libero occaecati enim vero laboriosam rem placeat error.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"1a3abf4e-847a-4232-a2cd-ca6285860dd4",
+    "nombre":"Comercio",
+    "descripcion":"Porro culpa impedit iure excepturi.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"8fdd3b7a-0096-41f9-94e0-de4d03963d39",
+    "nombre":"TURISMO",
+    "descripcion":"Est quaerat quasi similique voluptate consectetur.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"e1824bc4-31a6-4361-8cb2-927f1f30a294",
+    "nombre":"TECNOLOGÍA",
+    "descripcion":"Maiores autem dolores commodi ipsum consequuntur amet veniam.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"80bcb4cb-792c-465d-aad5-7d7f44bcafbf",
+    "nombre":"Logística",
+    "descripcion":"In vitae temporibus repellendus ut quam deleniti cum voluptatum iure soluta.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"95be1857-fc66-4ab0-a33d-5cb8d50aad54",
+    "nombre":"Logística",
+    "descripcion":"Ad veniam magnam vitae dolor explicabo amet libero sunt.",
+    "area_responsable":null
+  },
+  {
+    "id":"f2f3b2fe-25d3-44f0-9dc5-a880c1aa5c0b",
+    "nombre":"Educación",
+    "descripcion":"Maxime natus voluptatum laboriosam fugiat vero.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"226454d3-d43d-446a-b6b4-4ccb012a92d5",
+    "nombre":"Comercio",
+    "descripcion":"Provident ab magni fuga nulla.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"8acbdabd-57c2-4736-b416-981726e8c382",
+    "nombre":"Turismo",
+    "descripcion":"Fuga voluptates nam facilis corporis nobis illo aliquam.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"d9bedd51-36ff-401a-9b51-110c30811873",
+    "nombre":"Salud",
+    "descripcion":"Consequatur ex labore itaque non.",
+    "area_responsable":null
+  },
+  {
+    "id":"e6b52d49-309f-47ee-aa09-b9c82dfb3e3a",
+    "nombre":"Salud",
+    "descripcion":"Consequuntur ut et hic nulla sapiente nisi magni magni laudantium.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"200d0c6d-a21e-4f7e-bfeb-f3ed944183e2",
+    "nombre":"Turismo",
+    "descripcion":"Error repellendus fuga perferendis voluptatem nesciunt reiciendis quas porro ad.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"da6ce5fc-e3e6-464f-9589-0e1c1da92060",
+    "nombre":"salud",
+    "descripcion":"Eaque omnis voluptas neque dolorem amet laboriosam minima quam.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"8e94421e-5d13-4722-acef-6ac9e00f4a2c",
+    "nombre":"TURISMO",
+    "descripcion":"Corporis perspiciatis adipisci veniam beatae accusantium et corrupti.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"7de00d4f-6222-4fe3-80be-93bbac9afb7e",
+    "nombre":"Entretenimiento",
+    "descripcion":"Illum quod ullam sit quasi aperiam.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"f2f3b2fe-25d3-44f0-9dc5-a880c1aa5c0b",
+    "nombre":"Educación",
+    "descripcion":"Maxime natus voluptatum laboriosam fugiat vero.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"a08f0129-5aae-432e-b7fb-d419986aeae5",
+    "nombre":"tecnologia",
+    "descripcion":"Totam exercitationem explicabo quo quam officia possimus nostrum deleniti.",
+    "area_responsable":null
+  },
+  {
+    "id":"ca0305f9-b869-4813-a6b3-0c0582da916c",
+    "nombre":"Finanzas",
+    "descripcion":"Eius error velit voluptatem quo provident porro.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"a2cfadb4-4f9f-4801-905b-155a9674c1f6",
+    "nombre":"Deportes",
+    "descripcion":null,
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"32151e5c-340c-4abe-9a04-a6acfef1e60b",
+    "nombre":"Entretenimiento",
+    "descripcion":"Veritatis rem enim enim quae expedita ipsam ducimus.",
+    "area_responsable":null
+  },
+  {
+    "id":"1c6ee8b9-f151-4a05-a7b6-2a06172300c9",
+    "nombre":"Finanzas",
+    "descripcion":"Distinctio repudiandae earum natus earum autem qui dolores amet.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"cd77c765-eea5-44db-beaf-953445fd59c4",
+    "nombre":" finanzas ",
+    "descripcion":"Dolorem doloremque aut ex iusto perspiciatis consequuntur vitae voluptate culpa.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"e5fc67d4-07ad-4390-9bf9-d5512d19dff6",
+    "nombre":"logistica",
+    "descripcion":"Labore dicta vitae eum officia tenetur at nemo modi.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"dea14f64-b876-42b9-bb7d-ea6e791ba5f1",
+    "nombre":"EDUCACIÓN",
+    "descripcion":"Totam cupiditate sunt cupiditate ullam.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"b5b02bd9-c769-47b0-83e9-dc1a0fd2d5b5",
+    "nombre":"Logística",
+    "descripcion":"Ratione delectus quibusdam sit enim alias error nobis.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"a78fa7a4-fc88-4364-a3c7-a7efe326a156",
+    "nombre":"Turismo",
+    "descripcion":"Eligendi voluptatibus molestiae laudantium vel sed iusto deserunt.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"1090c421-2bb0-4369-b0b1-66f51448617e",
+    "nombre":"Logística",
+    "descripcion":"Ex quasi officia quaerat accusamus.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"c14329ac-17d5-483a-b747-1f6508831b2c",
+    "nombre":" educación ",
+    "descripcion":"Ratione necessitatibus quidem cupiditate sequi tempore repudiandae maiores.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"4df1574e-25f0-4d1f-a9c8-1210117f97fc",
+    "nombre":"Salud",
+    "descripcion":"Id atque voluptatem labore vel.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"78b70a92-856d-4152-b1b3-dafaba77acce",
+    "nombre":" entretenimiento ",
+    "descripcion":"Ea doloremque quidem veritatis.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"ce0f57b4-5cf5-48e3-a3cf-e9be169126fd",
+    "nombre":"Educación",
+    "descripcion":"Nesciunt nemo ea facere dolores pariatur iure.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"2576446f-796e-4d28-bc1d-46408719599c",
+    "nombre":"Turismo",
+    "descripcion":"Illo magnam tempora provident est blanditiis.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"932a6297-74c6-4b9a-ba79-668cfe1368e5",
+    "nombre":"Logística",
+    "descripcion":"Facilis dolore vero laboriosam iste voluptates fuga.",
+    "area_responsable":null
+  },
+  {
+    "id":"54d18f99-0477-473c-a940-530fbfc19484",
+    "nombre":"Seguridad",
+    "descripcion":"Totam quidem reiciendis repudiandae quis perspiciatis nisi ratione minima minus.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"76e3e828-8c50-441b-ac73-bbc66de72a78",
+    "nombre":"Educación",
+    "descripcion":"Aspernatur natus aperiam molestias magnam nemo corrupti eveniet.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"5c2a7e54-0419-4257-b1cf-7aeba89bbbd9",
+    "nombre":"Seguridad",
+    "descripcion":"Ipsam perspiciatis quaerat laborum tempore ipsum animi consequatur impedit natus.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"31f24d88-154e-4080-a536-a96d4a2a068b",
+    "nombre":"Entretenimiento",
+    "descripcion":"Iure rem quam id repellendus quia neque aliquid exercitationem aperiam.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"fe0d70f6-7565-4e32-a1a1-5fd7cfa09456",
+    "nombre":"Turismo",
+    "descripcion":"Vel architecto ut adipisci illum.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"123a2074-2f76-40e1-acd2-a305ec33af29",
+    "nombre":"comercio",
+    "descripcion":"Quisquam voluptatem officia in voluptatibus fugit.",
+    "area_responsable":null
+  },
+  {
+    "id":"033212d5-954c-474b-b85f-56ba82847224",
+    "nombre":"Finanzas",
+    "descripcion":"Fugiat placeat optio molestiae officiis expedita debitis modi.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"6cef9dd4-6013-4f23-a480-a1b355a6515a",
+    "nombre":" turismo ",
+    "descripcion":"Consectetur voluptatem rerum quidem voluptatem iure quaerat incidunt fugit dolorem.",
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"3a9efb77-d046-4947-a3a6-8fe8985287cb",
+    "nombre":"Logística",
+    "descripcion":"Expedita eius vel quam beatae repellat in quisquam sunt.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"a9be44ae-716e-40d5-9cc6-7d5f227fa534",
+    "nombre":" logística ",
+    "descripcion":null,
+    "area_responsable":"Desarrollo"
+  },
+  {
+    "id":"48403925-b277-4e8b-b7cf-cb656bb04c41",
+    "nombre":"Entretenimiento",
+    "descripcion":"Doloribus aliquid ipsa molestiae quidem.",
+    "area_responsable":null
+  },
+  {
+    "id":"ce020666-a655-4739-b7eb-d9ca6df8523c",
+    "nombre":"Entretenimiento",
+    "descripcion":null,
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"9bb3118d-cea1-4dd8-aad2-d5a785b1c46b",
+    "nombre":"Logística",
+    "descripcion":"Nisi perferendis eum error corporis optio dolore error aperiam veniam.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"ce020666-a655-4739-b7eb-d9ca6df8523c",
+    "nombre":"Entretenimiento",
+    "descripcion":null,
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"3773e862-eddc-4392-9f8f-8cd1a97933e2",
+    "nombre":" salud ",
+    "descripcion":"Eum impedit corrupti fugiat quidem labore sed error provident rem.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"4d0134eb-b312-4721-bca1-ecb65df1a51e",
+    "nombre":"TURISMO",
+    "descripcion":"Natus voluptas nam consequatur doloribus.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"375aceb3-2078-44f7-b8e7-d0053b6c5748",
+    "nombre":"SALUD",
+    "descripcion":"Ex aspernatur ipsum fuga modi repudiandae.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"4b0fe939-d24b-4c15-97c2-a826554e029b",
+    "nombre":"Seguridad",
+    "descripcion":"Eaque perferendis nobis sit deleniti.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"60becaef-c045-451b-ba38-896c9dd868ea",
+    "nombre":"TURISMO",
+    "descripcion":"Quam nam laboriosam sit ex vero accusamus vel vitae blanditiis.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"76669401-0caa-43b5-9b51-8725903ba91f",
+    "nombre":"Finanzas",
+    "descripcion":"Perspiciatis eligendi quam omnis temporibus sit ex nesciunt consequuntur expedita.",
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"7593a951-9588-44f2-9e34-8bcf68dd2b0a",
+    "nombre":"Entretenimiento",
+    "descripcion":"Ea maiores libero atque voluptatem iusto saepe.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"30e708d6-df75-4b48-a094-55b9c6705be9",
+    "nombre":"Turismo",
+    "descripcion":null,
+    "area_responsable":"Administración"
+  },
+  {
+    "id":"a69ed475-b611-4dfc-acf7-c817de60cbc1",
+    "nombre":"seguridad",
+    "descripcion":"Neque impedit corrupti ex fugit rerum libero omnis placeat ducimus.",
+    "area_responsable":"Marketing"
+  },
+  {
+    "id":"ef66fec6-5081-4f26-8744-3ead9b69dab9",
+    "nombre":"Deportes",
+    "descripcion":"Vitae odit laudantium cumque recusandae cumque quam laborum totam.",
+    "area_responsable":"Ventas"
+  },
+  {
+    "id":"381965ea-6bb6-4fd3-90b0-052fa7c58efb",
+    "nombre":"Deportes",
+    "descripcion":"Voluptatibus vero minima saepe asperiores repellendus aliquid ab consequuntur occaecati.",
+    "area_responsable":"Recursos Humanos"
+  },
+  {
+    "id":"226454d3-d43d-446a-b6b4-4ccb012a92d5",
+    "nombre":"Comercio",
+    "descripcion":"Provident ab magni fuga nulla.",
+    "area_responsable":"Ventas"
+  }
+]
