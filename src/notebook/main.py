@@ -1,3 +1,8 @@
+from simulacion.simular_prioridades import generar_prioridades
+from exportacion.exportar_prioridades import exportar
+from limpieza.limpiar_prioridades import main as limpiar_datos
+from consultas.consultas_prioridades import main as consultar_datos
+from graficacion.reporte_prioridades import main as graficar_datos
 from simulacion.simular_empresas import generar_empresas
 from exportacion.exportar_empresas import exportar_empresas
 from limpieza.limpiar_empresas import main as limpiar_empresas
@@ -144,23 +149,44 @@ if __name__ == "__main__":
     
 
 def main():
-    print("=== HU F01: Simulación ===")
-    df = generar_empresas(300)
-    print(df.shape)
-    print(df.head())
-    print(df.isna().sum())
+    print("=== HU F01: Simulación empresas ===")
+    df_empresa = generar_empresas(300)
+    print(df_empresa.shape)
+    print(df_empresa.head())
+    print(df_empresa.isna().sum())
 
-    print("\n=== HU X01: Exportación ===")
-    exportar_empresas(df)
+    print("\n=== HU X01: Exportación empresas ===")
+    exportar_empresas(df_empresa)
 
-    print("\n=== HU L01: Limpieza ===")
+    print("\n=== HU L01: Limpieza empresas ===")
     limpiar_empresas()
 
-    print("\n=== HU Q01: Consultas ===")
+    print("\n=== HU Q01: Consultas empresas ===")
     consultar_empresas()
 
-    print("\n=== HU G01: Gráficas ===")
+    print("\n=== HU G01: Gráficas empresas===")
     graficar_empresas()
+
+    # 1. Simulación (HU F01)
+    df = generar_prioridades()
+    print("=== SIMULACIÓN prioridades ===")
+    print(df.shape)
+    print(df.head(10))
+    print("\nNulos por columna:")
+    print(df.isna().sum())
+
+    # 2. Exportación (HU X01)
+    print("\n=== EXPORTACIÓN prioridades ===")
+    exportar(df)
+
+    print("\n=== LIMPIEZA prioridades ===")
+    limpiar_datos()
+
+    print("\n=== CONSULTAS prioridades ===")
+    consultar_datos()
+
+    print("\n=== GRÁFICAS prioridades ===")
+    graficar_datos()
 
 
 if __name__ == "__main__":

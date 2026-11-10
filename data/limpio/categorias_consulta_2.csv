@@ -1,35 +1,35 @@
 id,nombre,descripcion,area_responsable,largo_desc
-45467b71-62d3-4326-adbc-5332fd1a7e8b,Entretenimiento,Sin descripcion,Recursos Humanos,15
-ddbe57f5-9875-4ec4-a38a-c4a4b32f7703,Finanzas,Sin descripcion,Recursos Humanos,15
-c250d1d9-cbe1-4df4-9eb1-5bccc94e2bfd,Finanzas,Sin descripcion,Recursos Humanos,15
-b98144b3-c150-4beb-b837-40ebcb4f4b49,Finanzas,Sin descripcion,Administración,15
-cd8946af-0472-4f07-8036-f3d511007e8d,Salud,Sin descripcion,Ventas,15
-2662acb9-cf06-4efd-b035-e07b223a1f18,Salud,Sin descripcion,Recursos Humanos,15
-afb0d1f8-702a-4d24-bf9e-20143b147468,Deportes,Sin descripcion,Administración,15
-23d858b8-1bf7-42eb-8f93-891493c7caeb,Salud,Sin descripcion,Ventas,15
-695b4960-5a5e-462c-b00c-fbbb373a2e74,Turismo,Sin descripcion,Marketing,15
-95bcffdc-beea-4a62-bf05-f895406bc547,Comercio,Sin descripcion,Recursos Humanos,15
-a2cfadb4-4f9f-4801-905b-155a9674c1f6,Deportes,Sin descripcion,Marketing,15
-92169443-1984-4a63-bfa1-bd89975a9cd5,Entretenimiento,Sin descripcion,Recursos Humanos,15
-47133109-17db-45f7-a331-bfbeab9fba36,Seguridad,Sin descripcion,Ventas,15
-5cd5aea5-8532-4dd7-8ba0-318c9244502d,Deportes,Sin descripcion,Desarrollo,15
-e694ec4e-cdce-48ce-b10c-24d95996f6d4,Salud,Sin descripcion,Ventas,15
-f9694f3c-9869-48c5-b484-1afae8fe1e27,Comercio,Sin descripcion,Recursos Humanos,15
-ecfbaa6d-59fd-40e2-a00b-cb0a2c200bfe,Comercio,Sin descripcion,Desarrollo,15
-98ec9b3f-cad7-4b50-af23-5e3d941cb54b,Tecnologia,Sin descripcion,Recursos Humanos,15
-079b43fd-91ea-412a-81b7-41fe4317821e,Educacion,Sin descripcion,Administración,15
-627ced94-7899-4737-a7b9-865355f3e34e,Comercio,Sin descripcion,Recursos Humanos,15
-55ed34f8-4c38-473a-851e-e9c9ecef4de8,Deportes,Sin descripcion,Ventas,15
-f8d32ee9-4f87-4f02-a307-0435060e266f,Deportes,Sin descripcion,Recursos Humanos,15
-933165a9-e66c-474a-b1d3-1128fb1a191f,Deportes,Sin descripcion,Administración,15
-3ca3602e-8839-46ae-b30a-3b71763ee14a,Deportes,Sin descripcion,Ventas,15
-4f17ce16-8557-4583-933d-a4097bff37b1,Seguridad,Sin descripcion,Administración,15
-6fa53e39-c8ad-4321-bf99-d5deb6d994fc,Tecnologia,Sin descripcion,Desarrollo,15
-63835af2-7b21-4d69-b20f-57e7b4547181,Comercio,Sin descripcion,Desarrollo,15
-29cc35ac-af09-441f-bc73-bc0d3e9f4e66,Educacion,Sin descripcion,Administración,15
-77df70d5-8d78-4879-9adf-96435d8652bd,Logistica,Sin descripcion,Marketing,15
-5dc4249e-593b-49f3-a872-ae100a8414bc,Tecnologia,Sin descripcion,Administración,15
-7b00174c-68ed-4d92-9644-075583da1931,Entretenimiento,Sin descripcion,Desarrollo,15
-a9be44ae-716e-40d5-9cc6-7d5f227fa534,Logistica,Sin descripcion,Desarrollo,15
-ce020666-a655-4739-b7eb-d9ca6df8523c,Entretenimiento,Sin descripcion,Administración,15
-30e708d6-df75-4b48-a094-55b9c6705be9,Turismo,Sin descripcion,Administración,15
+a9715951-ea99-40e9-af2e-2b063edb4dfb,Entretenimiento,Sin descripcion,Recursos Humanos,15
+8b1d4e38-f477-4c12-8730-814f4f5cbac7,Finanzas,Sin descripcion,Recursos Humanos,15
+b4fea99b-d924-4346-a88a-140aeb242d8c,Finanzas,Sin descripcion,Recursos Humanos,15
+6eb07227-f848-40b5-a2be-dcb7424848ee,Finanzas,Sin descripcion,Administración,15
+40e27803-153b-49cc-a8f4-ec7d9b6f3243,Salud,Sin descripcion,Ventas,15
+64468800-6db7-4831-b229-d90098d813ee,Salud,Sin descripcion,Recursos Humanos,15
+5a246fba-1afd-4274-a7a0-24a11c9c56fc,Deportes,Sin descripcion,Administración,15
+545e5cbf-9ac5-413a-8e26-ee9f8e2d321d,Salud,Sin descripcion,Ventas,15
+9fe92e1c-8d73-4c5e-a676-f4676cb0e170,Turismo,Sin descripcion,Marketing,15
+ec420472-df0c-46cc-958c-d6fba9bbe00c,Comercio,Sin descripcion,Recursos Humanos,15
+5ffef5c1-21f7-4918-b8cf-ec051d3c3878,Deportes,Sin descripcion,Marketing,15
+84e48557-207e-4797-8da3-e3e0ca9ec80b,Entretenimiento,Sin descripcion,Recursos Humanos,15
+bd2d0844-3e8c-497e-a838-6726af79c559,Seguridad,Sin descripcion,Ventas,15
+8315cb53-a4c5-4a3b-9216-d6455771bc52,Deportes,Sin descripcion,Desarrollo,15
+f46bd0eb-edeb-44d3-b7ad-083d9de5a341,Salud,Sin descripcion,Ventas,15
+51303458-b4c2-431d-8d60-5e224e9ecf87,Comercio,Sin descripcion,Recursos Humanos,15
+23d42a02-e041-4691-8bb6-2771ff9974c0,Comercio,Sin descripcion,Desarrollo,15
+2033cf7d-cac0-45f6-a9df-f7b87b471eec,Tecnologia,Sin descripcion,Recursos Humanos,15
+3538a0c9-0495-4ccc-afd9-ab04c98b8ea6,Educacion,Sin descripcion,Administración,15
+679d2edd-71ff-4690-accc-dd98bc92579d,Comercio,Sin descripcion,Recursos Humanos,15
+f270899e-84cb-41d0-be6c-eedb3bca2598,Deportes,Sin descripcion,Ventas,15
+e315056b-48b7-403a-83ad-b4a8cce84144,Deportes,Sin descripcion,Recursos Humanos,15
+65a5f44e-e233-47d3-a2be-2c1f68596b49,Deportes,Sin descripcion,Administración,15
+451d3f01-4154-4d3c-8efc-430951da47c0,Deportes,Sin descripcion,Ventas,15
+c5cdb6d1-a513-40e1-8345-7d32dd9de7b4,Seguridad,Sin descripcion,Administración,15
+93ec95c8-374d-41c9-a6e6-08a4267a4acf,Tecnologia,Sin descripcion,Desarrollo,15
+b7c958e3-2138-401f-8c17-c853cde29922,Comercio,Sin descripcion,Desarrollo,15
+3fe27646-f62d-444f-991a-391bce496e8b,Educacion,Sin descripcion,Administración,15
+53cb3562-f22f-432f-a767-b7e68c481dce,Logistica,Sin descripcion,Marketing,15
+8375824e-0368-4478-acd6-8e6d93f49f52,Tecnologia,Sin descripcion,Administración,15
+6f545a00-b100-4d04-a529-de75c6a1bda9,Entretenimiento,Sin descripcion,Desarrollo,15
+4d3db311-3433-431c-a7d9-12187dd00a6d,Logistica,Sin descripcion,Desarrollo,15
+f24010ed-a78f-44ca-b12a-af8b08358e03,Entretenimiento,Sin descripcion,Administración,15
+c18711ec-e374-4388-a00f-fda75d7e6370,Turismo,Sin descripcion,Administración,15
