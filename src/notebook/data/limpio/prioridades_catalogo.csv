@@ -1,0 +1,6 @@
+id,nombre,nivel,dias_max_respuesta
+99ca6d7b-e749-4fb7-bc21-d8989a258d5c,Urgente,1.0,1.0
+a5eb87b2-79a9-4a35-b337-48d1b4e88d79,Media,3.0,7.0
+fe725b42-e6ac-45cd-81ea-7a3224f4cd2c,Alta,2.0,3.0
+60c69d58-1b3d-4cb5-9d99-38b1a8138936,Planificada,5.0,30.0
+d5d88a2e-4282-4abf-ae8a-a6d8b5a3d156,Baja,4.0,15.0

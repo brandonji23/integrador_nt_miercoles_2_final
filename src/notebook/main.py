@@ -1,3 +1,8 @@
+from simulacion.simular_registros import generar_registros
+from exportacion.exportar_registros import exportar_registros
+from limpieza.limpiar_registros import limpiar_registros
+from consultas.consultas_registros import consultar_registros
+from graficacion.graficar_registros import graficar_registros
 from simulacion.simular_prioridades import generar_prioridades
 from exportacion.exportar_prioridades import exportar
 from limpieza.limpiar_prioridades import main as limpiar_datos
@@ -19,6 +24,8 @@ import pandas as pd
 CARPETA_NOTEBOOK = Path(__file__).resolve().parent
 if str(CARPETA_NOTEBOOK) not in sys.path:
     sys.path.insert(0, str(CARPETA_NOTEBOOK))
+
+sys.path.insert(0, str(Path(__file__).resolve().parent / "src" / "notebook"))
 
 simulacion = import_module("simulacion.simular_categorias")
 exportacion = import_module("exportacion.exportar_categorias")
@@ -187,6 +194,14 @@ def main():
 
     print("\n=== GRÁFICAS prioridades ===")
     graficar_datos()
+
+    print("\n=== DATOS REGISTRO")
+    df = generar_registros(n=800)
+    exportar_registros(df)
+    limpiar_registros()
+    consultar_registros()
+    graficar_registros()
+
 
 
 if __name__ == "__main__":
